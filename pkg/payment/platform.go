@@ -66,6 +66,7 @@ func GetSupportedPlatforms() []types.PlatformInfo {
 				"pid": "PID",
 				"url": "URL",
 				"key": "Key",
+				"type": "Type"
 			},
 		},
 	}
